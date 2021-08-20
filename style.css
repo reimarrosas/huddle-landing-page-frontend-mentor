@@ -114,4 +114,8 @@ footer {
   .btn__register {
     justify-self: flex-start;
   }
+
+  .social-link__list {
+    justify-content: center;
+  }
 }
