@@ -74,7 +74,6 @@ img {
 }
 
 .landing-content {
-  text-align: center;
   flex: 1 1 39%;
 }
 
@@ -104,9 +103,10 @@ footer {
 @media screen and (max-width: 679px) {
   .landing-page {
     flex-direction: column;
+    text-align: center;
   }
 
-  .social-link__list {
-    justify-content: center;
+  .btn__register {
+    justify-self: flex-start;
   }
 }
