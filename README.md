@@ -34,4 +34,4 @@ Users should be able to:
 ## Author
 
 - Website - [Reimar Rosas](https://reimarrosas.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/reimarrosas)
+- Frontend Mentor - [@reimarrosas](https://www.frontendmentor.io/profile/reimarrosas)
